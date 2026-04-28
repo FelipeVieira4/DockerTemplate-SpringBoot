@@ -37,3 +37,14 @@ Lista de afazer caso tenha
 - **Framework:** ...
 - **Arquitetura:** ...
 - **Docker:** ...
+
+---
+
+
+## 🔐 .env
+
+Parâmetros para o .env
+
+- **DB_NAME:** SEU_BANCO
+- **DB_USER:** SEU_USUARIO
+- **DB_PASS:** SUA_SENHA
